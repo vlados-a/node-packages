@@ -1,0 +1,7 @@
+{
+	"Animals": {
+		"Bird" : "/Animals/Bird.js",
+		"Animal": "/Animals/Animal.js"
+	},
+	"lodash" : "/node_modules/lodash"
+}
